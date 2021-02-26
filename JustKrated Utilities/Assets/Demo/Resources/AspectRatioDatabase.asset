@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 405822ec0e597b249bc4eb4722aaeb35, type: 3}
+  m_Name: AspectRatioDatabase
+  m_EditorClassIdentifier: 
+  aspectRatios:
+  - name: 16x9
+    aspectRatio: {x: 16, y: 9}
+    size: 4.9
+  - name: 16x10
+    aspectRatio: {x: 16, y: 10}
+    size: 4.9
+  - name: 18x9
+    aspectRatio: {x: 18, y: 9}
+    size: 4.9
+  - name: 18.5x9
+    aspectRatio: {x: 18.5, y: 9}
+    size: 4.75
+  - name: 19x9
+    aspectRatio: {x: 19, y: 9}
+    size: 4.6
+  - name: 4x3
+    aspectRatio: {x: 4, y: 3}
+    size: 4.5
+  - name: 18x8.8
+    aspectRatio: {x: 18, y: 8.888889}
+    size: 4.8
+  - name: 19.5x9
+    aspectRatio: {x: 39, y: 18}
+    size: 4.5
+  - name: 19x10
+    aspectRatio: {x: 19, y: 10}
+    size: 4.5
